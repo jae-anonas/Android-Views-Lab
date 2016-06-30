@@ -2,94 +2,58 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/Users/alanjcaceres/AndroidStudioProjects/ViewsLab/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="/Users/alanjcaceres/AndroidStudioProjects/ViewsLab/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_ea5beba02ead55782e22f2d8a774700a68528fdd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/alanjcaceres/AndroidStudioProjects/ViewsLab/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="95c0dd34994409caaadd187b4ea7161f60c545a3">
-        <dex dex="/Users/alanjcaceres/AndroidStudioProjects/ViewsLab/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_92e7a158d1d18b8d6264797591761fc2647176c9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/alanjcaceres/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha3/constraint-layout-solver-1.0.0-alpha3.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="977d57354ef7ef4faa604b802d4907728e0db889">
-        <dex dex="/Users/alanjcaceres/AndroidStudioProjects/ViewsLab/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha3_a735bc5a81c098e4695261c6013f2f2d157119fc/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/alanjcaceres/AndroidStudioProjects/ViewsLab/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
-        <dex dex="/Users/alanjcaceres/AndroidStudioProjects/ViewsLab/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_fad91e83e93122ca54442fa686883026271d9bce/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/alanjcaceres/AndroidStudioProjects/ViewsLab/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="0f8fd02458b5bd6523b7f891178cc3ae8614f585">
-        <dex dex="/Users/alanjcaceres/AndroidStudioProjects/ViewsLab/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6843eae99d6a57462802203818edec9e9212c260/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/alanjcaceres/AndroidStudioProjects/ViewsLab/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
-        <dex dex="/Users/alanjcaceres/AndroidStudioProjects/ViewsLab/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_a28b18579739ef544de38f4a5e4f6c76563b7a07/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/alanjcaceres/AndroidStudioProjects/ViewsLab/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/roosevelt/Desktop/GA-ADI-Activities/Android-Views-Lab/starter-code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
         optimize="false"
         revision="24.0.0"
         sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
-        <dex dex="/Users/alanjcaceres/AndroidStudioProjects/ViewsLab/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_b587c8a8b207affa71f6e2e81c3fd81f19fdfab4/classes.dex" />
+        <dex dex="/Users/roosevelt/Desktop/GA-ADI-Activities/Android-Views-Lab/starter-code/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_aaac094ad16ea0d80d4fa584b2140e7835710daf.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/alanjcaceres/AndroidStudioProjects/ViewsLab/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/roosevelt/Desktop/GA-ADI-Activities/Android-Views-Lab/starter-code/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
         optimize="false"
         revision="24.0.0"
         sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
-        <dex dex="/Users/alanjcaceres/AndroidStudioProjects/ViewsLab/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_31bbd10a9b3951568a779eb539bbeaf72c0c3d77/classes.dex" />
+        <dex dex="/Users/roosevelt/Desktop/GA-ADI-Activities/Android-Views-Lab/starter-code/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_67ff535df03e38d44c9db7d76576d7a4712958bb.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/alanjcaceres/AndroidStudioProjects/ViewsLab/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha3/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/roosevelt/Desktop/GA-ADI-Activities/Android-Views-Lab/starter-code/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
         optimize="false"
         revision="24.0.0"
-        sha1="650cf8686cd625acfbdd43f8ab33f6f2f057605f">
-        <dex dex="/Users/alanjcaceres/AndroidStudioProjects/ViewsLab/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha3_bf73936c6c0e43705e99c2e5ef4f768f2582b050/classes.dex" />
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/roosevelt/Desktop/GA-ADI-Activities/Android-Views-Lab/starter-code/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_f40d5c55d3a7b2c41bca8df6de1a623ad66d64ef.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/alanjcaceres/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/roosevelt/Desktop/GA-ADI-Activities/Android-Views-Lab/starter-code/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/roosevelt/Desktop/GA-ADI-Activities/Android-Views-Lab/starter-code/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_5cea68914a9c5d5e02762186ed12571475dcf715.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roosevelt/Desktop/GA-ADI-Activities/Android-Views-Lab/starter-code/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/roosevelt/Desktop/GA-ADI-Activities/Android-Views-Lab/starter-code/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_939bb8bf53c8e0267024f7d6c01911e7e86d4d91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/roosevelt/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
         optimize="false"
         revision="24.0.0"
         sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
-        <dex dex="/Users/alanjcaceres/AndroidStudioProjects/ViewsLab/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_33fd05f25f66b84d1d987a33134585b86372ade8/classes.dex" />
+        <dex dex="/Users/roosevelt/Desktop/GA-ADI-Activities/Android-Views-Lab/starter-code/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_adfa5e8b242eee87e7971ba909c0ee339e595ef1.jar" />
     </item>
 
 </items>
